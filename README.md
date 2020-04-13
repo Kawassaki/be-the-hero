@@ -34,14 +34,14 @@ If you want to take a look to the template of this application follow the link o
 ## 🔧 How to run local
  First of all, get a clone of this repository follow git clone instructions
  
- - ReactJs
-   Open the IDE on path `OminiStack 11\oministack-frontend`
-   Now, you need to install all dependencies using the command `yarn`
-   And now run `yarn start` to provide the app on localhost:3000
+ ### ReactJs
+   - Open the IDE on path `OminiStack 11\oministack-frontend`
+   - Now, you need to install all dependencies using the command `yarn`
+   - And now run `yarn start` to provide the app on localhost:3000
    
- - NodeJs
-   Open the IDE on path `OminiStack 11\oministack-backend`
-   Now, you need to install all dependencies using the command `yarn`
-   And now run `yarn start` to provide the api node on localhost:3333
+ ### NodeJs
+   - Open the IDE on path `OminiStack 11\oministack-backend`
+   - Now, you need to install all dependencies using the command `yarn`
+   - And now run `yarn start` to provide the api node on localhost:3333
 
 Felipe Kawassaki :wave: [Get in touch!](https://www.linkedin.com/in/felipe-kawassaki-335697118/)
