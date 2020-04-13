@@ -5,14 +5,6 @@
 <h4 align="center"> 
 :construction: 🚀 Semana OmniStack 11.0 :construction:
 </h4>
-<p align="center">
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
-</p>
-
 ## 💻 Project
 
 Be the Hero is a project that was made on OminStack Week 11.0 from Rocketseat to improve knowledge working with Javascript
