@@ -44,4 +44,4 @@ If you want to take a look to the template of this application follow the link o
    - Now, you need to install all dependencies using the command `yarn`
    - And now run `yarn start` to provide the api node on localhost:3333
 
-Felipe Kawassaki :wave: [Get in touch!](https://www.linkedin.com/in/felipe-kawassaki-335697118/)
+By: Felipe Kawassaki :wave: [Get in touch!](https://www.linkedin.com/in/felipe-kawassaki-335697118/)
